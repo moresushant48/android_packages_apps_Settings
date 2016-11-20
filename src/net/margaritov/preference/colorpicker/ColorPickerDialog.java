@@ -82,7 +82,7 @@ public class ColorPickerDialog
 
         setContentView(layout);
 
-        setTitle(R.string.dialog_color_picker);
+        // setTitle(R.string.dialog_color_picker); 
 
         mColorPicker = (ColorPickerView) layout.findViewById(R.id.color_picker_view);
         mOldColor = (ColorPickerPanelView) layout.findViewById(R.id.old_color_panel);
@@ -95,7 +95,7 @@ public class ColorPickerDialog
         mGreen = (ColorPickerPanelView) layout.findViewById(R.id.green_panel);
         mYellow = (ColorPickerPanelView) layout.findViewById(R.id.yellow_panel);
 
-        mHex = (EditText) layout.findViewById(R.id.hex);
+       // mHex = (EditText) layout.findViewById(R.id.hex);
         mSetButton = (ImageButton) layout.findViewById(R.id.enter);
 
         ((LinearLayout) mOldColor.getParent()).setPadding(

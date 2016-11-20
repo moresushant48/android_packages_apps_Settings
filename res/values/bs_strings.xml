@@ -20,6 +20,10 @@
     <string name="mod_version">BeanStalk version</string>
     <string name="mod_version_default">Unknown</string>
 
+    <!-- Compiled By -->
+    <string name="compiled_by">Compiled By</string>
+    <string name="compiled_by_summary">Sushant More (moresushant48)</string>
+
     <!-- Changelog -->
     <string name="changelog_beanstalk_title">BeanStalk changelog</string>
     <string name="changelog_beanstalk_error">Unable to load BeanStalk changelog</string>
@@ -164,7 +168,7 @@
     <!-- Display catagories -->
     <string name="category_interface">Interface</string>
 
-    <!-- transparency -->
+    <!-- transparency
     <string name="transparency_title">Transparency</string>
     <string name="qs_transparent_shade">QS shade transparency</string>
     <string name="qs_transparent_header">QS header transparency</string>
@@ -174,9 +178,9 @@
     <string name="notifications_transparency">Notifications transparency</string>
     <string name="qs">Quick Settings Tweaks</string>
     <string name="vol_diag">Volume Dialog Tweaks</string>
-    <string name="power">Power Menu Tweaks</string>
+    <string name="power">Power Menu Tweaks</string>-->
 
-    <!-- QS stroke settings -->
+    <!-- QS stroke settings 
     <string name="qs_stroke_title">QS shade stroke</string>
     <string name="qs_stroke_disabled">Disabled</string>
     <string name="qs_stroke_accent">Accent color</string>
@@ -185,9 +189,9 @@
     <string name="qs_stroke_thickness_title">QS shade stroke thickness</string>
     <string name="qs_corner_radius_title">QS shade corner radius</string>
     <string name="qs_dash_width_title">QS stroke dash width</string>
-    <string name="qs_dash_gap_title">QS stroke dash gap</string>
+    <string name="qs_dash_gap_title">QS stroke dash gap</string>-->
 
-    <!-- Volume dialog stroke settings -->
+    <!-- Volume dialog stroke settings
     <string name="volume_dialog_stroke_title">Volume dialog stroke</string>
     <string name="volume_dialog_stroke_disabled">Disabled</string>
     <string name="volume_dialog_stroke_accent">Accent color</string>
@@ -196,9 +200,9 @@
     <string name="volume_dialog_stroke_thickness_title">Volume dialog stroke thickness</string>
     <string name="volume_dialog_corner_radius_title">Volume dialog corner radius</string>
     <string name="volume_dialog_dash_width_title">Volume dialog stroke dash width</string>
-    <string name="volume_dialog_dash_gap_title">Volume dialog stroke dash gap</string>
+    <string name="volume_dialog_dash_gap_title">Volume dialog stroke dash gap</string>-->
 
-    <!-- Color Picker -->
+    <!-- Color Picker
     <string name="dialog_color_picker">Color Picker</string>
     <string name="press_color_to_apply">Press on color below to apply</string>
     <string name="arrow_right" translatable="false">→</string>
@@ -206,7 +210,7 @@
     <string name="hex">Hex:</string>
     <string name="hex_hint">#ff000000</string>
     <string name="set">Set</string>
-    <string name="color_default">Default</string>
+    <string name="color_default">Default</string>-->
 
     <!-- OmniSwitch -->
     <string name="omniswitch_category">OmniSwitch</string>
@@ -435,4 +439,5 @@
 
     <string name="screenshot_crop_and_share_title">Screenshot crop &amp; share</string>
     <string name="screenshot_crop_and_share_summary">Show an editor window after taking a screenshot in order to do some operations like cropping, saving or sharing it</string>
+
 </resources>

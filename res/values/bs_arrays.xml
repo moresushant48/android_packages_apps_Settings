@@ -101,7 +101,7 @@
         <item>7</item>
     </string-array>
 
-    <!-- Volume dialog stroke -->
+    <!-- Volume dialog stroke
     <string-array name="volume_dialog_stroke_entries" translatable="false">
         <item>@string/volume_dialog_stroke_disabled</item>
         <item>@string/volume_dialog_stroke_accent</item>
@@ -112,9 +112,10 @@
         <item>0</item>
         <item>1</item>
         <item>2</item>
-    </string-array>
+    </string-array> 
+-->
 
-    <!-- QS stroke -->
+    <!-- QS stroke
     <string-array name="qs_stroke_entries" translatable="false">
         <item>@string/qs_stroke_disabled</item>
         <item>@string/qs_stroke_accent</item>
@@ -125,8 +126,8 @@
         <item>0</item>
         <item>1</item>
         <item>2</item>
-    </string-array>
-
+    </string-array> 
+-->
     <!-- Power menu Animations  -->
     <string-array name="power_menu_animations_entries">
         <item>@string/power_menu_animation_aosp</item>

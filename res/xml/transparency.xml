@@ -17,16 +17,16 @@
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:settings="http://schemas.android.com/apk/res/com.android.settings">
 
-    <PreferenceCategory
+<!--    <PreferenceCategory
         android:title="@string/qs">
 
-    <!--<com.android.settings.beanstalk.CustomSeekBarPreference
+    <com.android.settings.beanstalk.CustomSeekBarPreference
         android:key="qs_transparent_header"
         android:title="@string/qs_transparent_header"
         android:max="255"
         settings:min="0"
         settings:units=""
-        android:persistent="false" />-->
+        android:persistent="false" />
 
     <com.android.settings.beanstalk.CustomSeekBarPreference
         android:key="qs_transparent_shade"
@@ -34,7 +34,7 @@
         android:max="255"
         settings:min="0"
         settings:units=""
-        android:persistent="false" /> -->
+        android:persistent="false" />
 
     <ListPreference
         android:key="qs_stroke"
@@ -159,12 +159,13 @@
         android:persistent="false" />
     </PreferenceCategory>
 
-    <!--<com.android.settings.beanstalk.CustomSeekBarPreference
+    <com.android.settings.beanstalk.CustomSeekBarPreference
         android:key="notification_alpha"
         android:title="@string/notifications_transparency"
         android:max="255"
         settings:min="0"
         settings:units=""
-        android:persistent="false" />-->
+        android:persistent="false" />
+-->
 
 </PreferenceScreen>
